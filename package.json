@@ -1,0 +1,25 @@
+{
+  "name": "02-classes-inheritance-fp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrentTech/02-classes-inheritance-fp.git"
+  },
+  "keywords": [],
+  "author": "Brent Woodward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrentTech/02-classes-inheritance-fp/issues"
+  },
+  "homepage": "https://github.com/BrentTech/02-classes-inheritance-fp#readme",
+  "dependencies": {
+    "eslint": "^5.10.0",
+    "jest": "^23.6.0"
+  }
+}
