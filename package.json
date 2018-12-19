@@ -4,15 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --verbose --coverage",
+    "lint": "eslint **/*.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BrentTech/02-classes-inheritance-fp.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Brent Woodward",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/BrentTech/02-classes-inheritance-fp/issues"
   },
