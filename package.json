@@ -1,0 +1,24 @@
+{
+  "name": "02-classes-inheritance-fp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrentTech/02-classes-inheritance-fp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrentTech/02-classes-inheritance-fp/issues"
+  },
+  "homepage": "https://github.com/BrentTech/02-classes-inheritance-fp#readme",
+  "dependencies": {
+    "eslint": "^5.10.0",
+    "jest": "^23.6.0"
+  }
+}
