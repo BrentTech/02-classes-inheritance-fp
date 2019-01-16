@@ -6,9 +6,9 @@
 ### Author: Brent Woodward
 
 ### Links and Resources
-[![Build Status](https://www.travis-ci.com/BrentTech/02-classes-inheritance-fp.svg?branch=master)](https://www.travis-ci.com/BrentTech/02-classes-inheritance-fp)
-* [repo](https://www.travis-ci.com/BrentTech/02-classes-inheritance-fp)
-* [travis](https://www.travis-ci.com/BrentTech/01-node-ecosystem)
+[![Build Status](https://www.travis-ci.com/BrentTech/02-classes-inheritance-fp.svg?branch=master)]
+* [repo](https://github.com/BrentTech/02-classes-inheritance-fp)
+* [travis](https://www.travis-ci.com/BrentTech/02-classes-inheritance-fp)
 
 ### Modules
 #### `arithmetic.js`
